@@ -1,0 +1,203 @@
+.container {
+	padding: 5px;
+}
+
+.container-fluid {
+	overflow: hidden;
+}
+
+nav ul li {
+	padding: 12px;
+}
+
+nav .navbar-nav .nav-link {
+	color: #00003D;
+}
+
+nav li img {
+	margin-left: 20px;
+}
+
+.section1 {
+	min-height: 40vh;
+	padding: 0 8%;
+	background-color: #FEEFCC;
+	color: #00003D;
+}
+
+
+.one p {
+	font-size: 14px;
+}
+
+.one span {
+	font-size: 14px;
+	padding: 20px 10px;
+}
+
+.one {
+	padding-top: 100px;
+}
+.two {
+	padding-top: 40px;
+}
+
+.home {
+	width: 100%;
+}
+
+
+.box {
+	padding: 6px;
+	background-color: #CCC;
+	display: flex;
+	justify-content: space-between;
+}
+
+.one input[type=text]{
+	border: none;
+	padding: 10px 20px;
+	background-color: #CCC;
+	font-size: 13px;
+}
+
+.but1 {
+	background-color:#FBAF00 ;
+	color: white;
+	padding: 10px 20px;
+}
+
+.radio {
+	padding-top: 150px;
+	padding-bottom: 10px;
+}
+
+label {
+	margin-left: 10px;
+}
+
+.section2 {
+	min-height: 40vh;
+	padding: 30px 8% ;
+	background-color: #fff;
+	color: #00003D;
+}
+
+.section2 h6 {
+	font-weight: normal;
+	font-size: 13px;
+}
+
+.pic {
+	padding: 20px 0;
+}
+.section3 {
+	min-height: 80vh;
+	padding: 20px 8%;
+	background-color: #FFF;
+	color: #00003D;
+}
+
+.section3 h6 {
+	font-weight: normal;
+	font-size: 13px;
+}
+
+.point {
+	padding: 20px 12%;
+}
+
+.point p {
+	font-size: 14px;
+}
+
+.point h5 {
+	font-size: 20px;
+}
+.section4 {
+	min-height: 50vh;
+	padding: 80px 8%;
+	background-color: #00003D;
+	color: white;
+}
+
+.flex1 h6 {
+	font-size: 14px;
+	font-weight: normal;
+}
+.flex2 p {
+	margin-top: 20px;
+	font-size: 14px;
+}
+
+.flex2 {
+	padding: 35px 0; 
+}
+
+
+.flex3 {
+	display: flex;
+	justify-content: center;
+}
+
+.but3 {
+	background: white;
+	color: #00003D;
+	padding: 10px 20px;
+	border: 2px solid #00003D;
+	font-size: 13px;
+}
+
+
+.section5 {
+	min-height: 50vh;
+	padding: 0 8%;
+	background-color: #FEEFCC; /*will have a design like image as its background*/
+	color: #00003D;
+}
+
+
+.start1 {
+	padding: 220px 20px 50px 0;
+}
+
+.start1 h1 {
+	margin-bottom: 30px;
+}
+/*the two buttons in section5 but1 and but2*/
+
+.but1 {
+	background-color: #FBAF00 ;
+	color: white;
+	padding: 10px 20px;
+	border: 2px solid #FBAF00;
+	font-size: 13px;
+	margin-right: 20px;
+}
+
+.but2 {
+	background: transparent;
+	color: #00003D;
+	padding: 10px 20px;
+	border: 2px solid #00003D;
+	font-size: 13px;
+}
+
+.start2 {
+	padding: 40px 0 0 10px;
+}
+
+.girl {
+	width: 100%;
+}
+.section6 {
+	min-height: 50vh;
+	padding: 80px 8%;
+	background-color: #00003D; /*will have a design like image as its background*/
+	color: #FFF;
+}
+
+.section6 p {
+	font-size: 14px;
+	font-weight: normal;
+} 

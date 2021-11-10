@@ -1,0 +1,103 @@
+nav ul li {
+	padding: 12px;
+}
+
+nav .navbar-nav .nav-link {
+	color: #00003D;
+}
+
+nav li img {
+	margin-left: 20px;
+}
+
+.section1 {
+	min-height: 60vh;
+	padding: 80px 8%;
+	background-color: #FFF;
+	color: #00003D;
+}
+
+
+.but1 {
+	background: #00003D;
+	color: #FFF;
+	padding: 10px 20px;
+	border: 2px solid #00003D;
+	font-size: 13px;
+}
+
+
+.section2 {
+	min-height: 80vh;
+	padding: 80px 8%;
+	background-color: #fff;
+	color: #00003D;
+}
+
+.section3 {
+	min-height: 40vh;
+	padding: 80px 12%;
+	background-color: #00003D;
+	color: white;
+}
+
+
+.head {
+	padding-bottom: 30px;
+}
+
+.row2 {
+	margin: 40px auto;
+	position: relative;
+}
+
+.row2 h4 {
+	padding-bottom: 15px;
+	font-size: 22px;
+}
+
+.row2 p, .row2 h6 {
+	/*max-width: 280px;*/
+	font-size: 14px;
+}
+
+.row2 div {
+	padding: 5px 20px;
+}
+
+.row2 div:nth-child(1)::after {
+	position: absolute;
+	content: '';
+	width: 3px;
+	height: 95%;
+	top: 0;
+	left: -10px;
+	background-color: #FBAF00;
+}
+
+.next{
+	position: relative;
+}
+
+.next::after {
+	position: absolute;
+	content: '';
+	width: 3px;
+	height: 40%;
+	top: 0;
+	left: -10px;
+	background-color: #AAA;
+}
+input[type=text] , textarea, button {
+	margin:  15px auto;
+	font-size: 13px;
+	padding: 10px;
+	border: 1px solid #00003D;
+	color: #00003D; 
+
+}
+
+.section3 p {
+	font-size: 14px;
+}
+

@@ -1,0 +1,112 @@
+
+nav ul li {
+	padding: 12px;
+}
+
+nav .navbar-nav .nav-link {
+	color: #00003D;
+}
+
+nav li img {
+	margin-left: 20px;
+}
+
+
+.section1 {
+	min-height: 60vh;
+	padding: 80px 8%;
+	background-color: #FFF;
+	color: #00003D;
+}
+
+
+.section1 p {
+	font-size: 14px;
+	padding-top: 20px;
+}
+
+.but1 {
+	background: #00003D;
+	color: #FFF;
+	padding: 10px 20px;
+	border: 2px solid #00003D;
+	font-size: 13px;
+}
+
+
+.section2 {
+	min-height: 80vh;
+	padding: 80px 15%;
+	background-color: #fff;
+	color: #00003D;
+}
+
+.girl {
+	width: 90%;
+}
+
+.section3 {
+	min-height: 60vh;
+	padding: 80px 8%;
+	background-color: #fff;
+	color: #00003D;
+	text-align: center;
+}
+
+.quote {
+	display: flex;
+	justify-content: center;
+}
+
+.section4 {
+	min-height: 50vh;
+	padding: 80px 15%;
+	background-color: #00003D;
+	color: white;
+}
+
+.section4 p {
+	font-size: 14px;
+	font-weight: normal;
+} 
+
+.flow {
+	position: relative;
+}
+
+.flow p {
+	background-color: white;
+	border-radius: 4px;
+	padding: 10px 20px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.02);
+	text-align: center;
+}
+.flow1 {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.flow2 {
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+
+.flow3 {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+.flow4 {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
+
+.flow5 {
+	position: absolute;
+	top: 30%;
+	left: 45%;
+}
